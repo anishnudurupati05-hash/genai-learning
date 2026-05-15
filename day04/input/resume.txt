@@ -1,0 +1,6 @@
+I am learning Python, FastAPI, REST API development, LLM applications,
+prompt engineering, RAG, embeddings, vector databases, Git, Docker,
+LangChain, PostgreSQL, LlamaIndex, Cloud Deployment, AI Agents, Model Evaluation, and Streamlit.
+
+I want to build AI applications using APIs and real-world documents.
+I am learning Model Evaluation to test Ai applications quality.

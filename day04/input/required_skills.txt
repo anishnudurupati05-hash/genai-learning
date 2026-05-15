@@ -1,0 +1,17 @@
+Python
+FastAPI
+REST API
+Prompt Engineering
+LLM
+Embeddings
+Vector Database
+RAG
+Git
+Docker
+LangChain
+LlamaIndex
+PostgreSQL
+Cloud Deployment
+AI Agents
+Streamlit
+Model Evaluation
