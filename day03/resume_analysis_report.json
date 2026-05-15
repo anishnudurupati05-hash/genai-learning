@@ -1,0 +1,117 @@
+[
+    {
+        "candidate_name": "Main Learning Profile",
+        "target_role": "LLM Application Developer / GenAI Application Developer",
+        "total_required_skills": 16,
+        "matched_count": 16,
+        "missing_count": 0,
+        "matched_skills": [
+            "Python",
+            "FastAPI",
+            "REST API",
+            "Prompt Engineering",
+            "LLM",
+            "Embeddings",
+            "Vector Database",
+            "RAG",
+            "Git",
+            "Docker",
+            "LangChain",
+            "LlamaIndex",
+            "PostgreSQL",
+            "Cloud Deployment",
+            "AI Agents",
+            "Streamlit"
+        ],
+        "missing_skills": [],
+        "match_score": 100.0,
+        "recommendation": "Strong match. Continue building portfolio projects."
+    },
+    {
+        "candidate_name": "Beginner Profile",
+        "target_role": "LLM Application Developer / GenAI Application Developer",
+        "total_required_skills": 16,
+        "matched_count": 2,
+        "missing_count": 14,
+        "matched_skills": [
+            "Python",
+            "Git"
+        ],
+        "missing_skills": [
+            "FastAPI",
+            "REST API",
+            "Prompt Engineering",
+            "LLM",
+            "Embeddings",
+            "Vector Database",
+            "RAG",
+            "Docker",
+            "LangChain",
+            "LlamaIndex",
+            "PostgreSQL",
+            "Cloud Deployment",
+            "AI Agents",
+            "Streamlit"
+        ],
+        "match_score": 12.5,
+        "recommendation": "Beginner level. Focus on foundation skills first."
+    },
+    {
+        "candidate_name": "Backend-Oriented AI Profile",
+        "target_role": "LLM Application Developer / GenAI Application Developer",
+        "total_required_skills": 16,
+        "matched_count": 9,
+        "missing_count": 7,
+        "matched_skills": [
+            "Python",
+            "FastAPI",
+            "REST API",
+            "Prompt Engineering",
+            "LLM",
+            "Git",
+            "Docker",
+            "PostgreSQL",
+            "Cloud Deployment"
+        ],
+        "missing_skills": [
+            "Embeddings",
+            "Vector Database",
+            "RAG",
+            "LangChain",
+            "LlamaIndex",
+            "AI Agents",
+            "Streamlit"
+        ],
+        "match_score": 56.25,
+        "recommendation": "Moderate match. Improve missing technical skills."
+    },
+    {
+        "candidate_name": "RAG Focused Profile",
+        "target_role": "LLM Application Developer / GenAI Application Developer",
+        "total_required_skills": 16,
+        "matched_count": 11,
+        "missing_count": 5,
+        "matched_skills": [
+            "Python",
+            "FastAPI",
+            "Prompt Engineering",
+            "LLM",
+            "Embeddings",
+            "Vector Database",
+            "RAG",
+            "Git",
+            "Docker",
+            "LangChain",
+            "LlamaIndex"
+        ],
+        "missing_skills": [
+            "REST API",
+            "PostgreSQL",
+            "Cloud Deployment",
+            "AI Agents",
+            "Streamlit"
+        ],
+        "match_score": 68.75,
+        "recommendation": "Moderate match. Improve missing technical skills."
+    }
+]
