@@ -1,0 +1,32 @@
+{
+    "target_role": "LLM Application Developer / GenAI Application Developer",
+    "total_required_skills": 17,
+    "matched_count": 2,
+    "missing_count": 15,
+    "matched_skills": [
+        "Python",
+        "Git"
+    ],
+    "missing_skills": [
+        "FastAPI",
+        "REST API",
+        "Prompt Engineering",
+        "LLM",
+        "Embeddings",
+        "Vector Database",
+        "RAG",
+        "Docker",
+        "LangChain",
+        "LlamaIndex",
+        "PostgreSQL",
+        "Cloud Deployment",
+        "AI Agents",
+        "Streamlit",
+        "Model Evaluation"
+    ],
+    "match_score": 11.76,
+    "recommendation": "Beginner level. Focus on foundation skills first.",
+    "resume_source": "day05/beginner_resume.txt",
+    "skills_source": "day04/input/required_skills.txt",
+    "output_file": "day05/beginner_report.json"
+}
